@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\48571\source\repos\StaticDynamicVirtual\main.cpp(47,6): warning C4101: 'bnv2': unreferenced local variable
+  StaticDynamicVirtual.vcxproj -> C:\Users\48571\source\repos\StaticDynamicVirtual\x64\Debug\StaticDynamicVirtual.exe
